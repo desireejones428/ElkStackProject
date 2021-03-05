@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 =======
 # ElkStackProject
 This repository is a collection of Linux scripts and Ansible scripts created in my Cyber Security Bootcamp to configure cloud servers with different docker containers.
 
->>>>>>> bcc80a8d16d5a355725a35862b66bbc0308b4866
 ## Automated ELK Stack Deployment
 
-<<<<<<< HEAD
 The files in this repository were used to configure the network depicted below.
 
 	ElkStackProject/Diagrams/DAJ-ELKStackNetworkDiagram.drawio
@@ -106,5 +103,4 @@ SSH into the control node and follow the steps below:
 - Update the hosts file to include the hosts for the [webservers] and the host for the [elk] server.
 - Run the playbook, and navigate to http://104.42.196.199:5601 or http://[elk_public_IP]:5601 to check that the installation worked as expected.
 =======
-## Completed README coming soon
->>>>>>> bcc80a8d16d5a355725a35862b66bbc0308b4866
+
